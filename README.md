@@ -3,7 +3,7 @@
 ---
 
 |   #   |                                         Project                                      |                      Live Link                             |
-| ----= | ------------------------------------------------------------------------------------ | ---------------------------------------------------------  |
+| ----  | ------------------------------------------------------------------------------------ | ---------------------------------------------------------  |
 |  01   | [Taka Lagbe](https://github.com/farhan-nahid/taka-lagbe)                             | [Live Demo](https://taka-lagbe.netlify.app/)               |
 |  02   | [TravelX](https://github.com/farhan-nahid/travelX)                                   | [Live Demo](https://travel-x.vercel.app/)                  |
 |  03   | [Random Color With Audio](https://github.com/farhan-nahid/random-color-with-audio)   | [Live Demo](https://random-color-with-audio.netlify.app/)  |
@@ -17,7 +17,9 @@
 
 
 
-
+<br />
+<br />
+<br />
 
 
 
