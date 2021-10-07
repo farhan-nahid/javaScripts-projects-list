@@ -14,7 +14,7 @@
 | 10  | [Personal Website](https://github.com/farhan-nahid/personal-website)       | [Live Demo](https://farhan-nahid.github.io/personal-website/)    |
 | 10  | [Cuda](https://github.com/farhan-nahid/1st-psd-to-html)                    | [Live Demo](https://farhan-nahid.github.io/1st-psd-to-html/)     |
 | 11  | [Blue Easy](https://github.com/farhan-nahid/blueeasy)                      | [Live Demo](https://farhan-nahid.github.io/blueeasy/)            |
-| 11  | [Sunnyside Agency](https://github.com/farhan-nahid/sunnyside-agency)       | [Live Demo](https://agency-sunnyside.vercel.app/)                |
+| 12  | [Sunnyside Agency](https://github.com/farhan-nahid/sunnyside-agency)       | [Live Demo](https://agency-sunnyside.vercel.app/)                |
 
 <br />
 <br />
@@ -81,6 +81,6 @@
 | #   | Project                                                          | Live Demo                                                 |
 | --- | ---------------------------------------------------------------- | --------------------------------------------------------- |
 | 01  | [Fancy Slider](https://github.com/farhan-nahid/fancy-slider)     | [Live Demo](https://farhan-nahid.github.io/fancy-slider/) |
-| 01  | [Ranga Store](https://github.com/farhan-nahid/ranga-store)       | [Live Demo](https://ranga-store.vercel.app/)              |
-| 01  | [Issues Tracker](https://github.com/farhan-nahid/issues-tracker) | [Live Demo](https://issues-tracker.vercel.app/)           |
-| 01  | [Salary App](https://github.com/farhan-nahid/js-dude-salary-app) | [Live Demo](https://js-dude-salary-app.vercel.app/)       |
+| 02  | [Ranga Store](https://github.com/farhan-nahid/ranga-store)       | [Live Demo](https://ranga-store.vercel.app/)              |
+| 03  | [Issues Tracker](https://github.com/farhan-nahid/issues-tracker) | [Live Demo](https://issues-tracker.vercel.app/)           |
+| 04  | [Salary App](https://github.com/farhan-nahid/js-dude-salary-app) | [Live Demo](https://js-dude-salary-app.vercel.app/)       |
